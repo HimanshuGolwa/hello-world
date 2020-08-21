@@ -1,3 +1,3 @@
 # hello-world
-First repository
-Hello this is Heman! Cool ain't it?
+This Stores my time table
+This GitHub file is just for learing
